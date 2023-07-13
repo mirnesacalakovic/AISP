@@ -1,0 +1,1 @@
+prviParan(temp)!=NULL)

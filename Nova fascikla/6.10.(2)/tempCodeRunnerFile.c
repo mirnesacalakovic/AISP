@@ -1,0 +1,1 @@
+if(hashArray[i] != NULL)
